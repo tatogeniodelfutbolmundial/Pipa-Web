@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(2, 19, 247);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+h1{
+    background-color: rgb(255, 0, 0);
+    color: black;
+    margin: 45px;
+    padding: 60px;
+    width: 30%;
+    border: solid;
+    border-color: rgb(242, 249, 238);
+}
+p{
+    background-color: rgb(51, 255, 0);
+    color: rgb(0, 0, 0);
+    margin: 45px;
+    padding: 60px;
+    width: 100%;
+    border: solid;
+    border-color: rgb(255, 0, 251); 
+}
+img{
+    border: solid;
+    border-color: rgb(255, 166, 0); 
+}
+iframe{
+    border: solid;
+    border-color: rgb(255, 119, 0);  
+}
